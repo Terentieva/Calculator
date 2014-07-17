@@ -1,0 +1,7 @@
+$ cat .gitignore
+#ignore ext file
+Calculator.iml
+#
+#ignore config files from idea
+.idea/
+out/
